@@ -1,0 +1,1001 @@
+Timestamp,App,Action Type,Key/Button,Cursor X,Cursor Y,Notes,Intent
+4/6/2025 9:00,Excel,MouseClick,Right,223,301,Open context menu,context_menu
+4/6/2025 9:00,Excel,Key,Ctrl+C,590,344,Copy cell,copy_paste
+4/6/2025 9:00,Excel,Key,Ctrl+V,392,277,Paste cell,copy_paste
+4/6/2025 9:00,Excel,MouseClick,Right,434,197,Open context menu,context_menu
+4/6/2025 9:00,Excel,Key,Ctrl+C,492,318,Copy cell,copy_paste
+4/6/2025 9:00,Excel,Key,Ctrl+V,532,367,Paste cell,copy_paste
+4/6/2025 9:00,Excel,Key,Delete,579,328,Delete selected cell,delete_data
+4/6/2025 9:01,Excel,Key,Delete,291,349,Delete selected cell,delete_data
+4/6/2025 9:01,Excel,Key,Ctrl+C,538,182,Copy cell,copy_paste
+4/6/2025 9:01,Excel,Key,Ctrl+V,525,373,Paste cell,copy_paste
+4/6/2025 9:01,Excel,MouseClick,Right,518,394,Open context menu,context_menu
+4/6/2025 9:01,Excel,MouseClick,Right,384,191,Open context menu,context_menu
+4/6/2025 9:01,Excel,Key,F2,388,253,Edit cell,edit_and_save
+4/6/2025 9:02,Excel,Key,Ctrl+S,255,369,Save file,edit_and_save
+4/6/2025 9:02,Excel,Key,Alt+N,294,400,Open Insertmenu,insert_chart
+4/6/2025 9:02,Excel,MouseClick,Left,583,286,"Click ""Chart""",insert_chart
+4/6/2025 9:02,Excel,Key,Ctrl+C,173,310,Copy cell,copy_paste
+4/6/2025 9:02,Excel,Key,Ctrl+V,561,167,Paste cell,copy_paste
+4/6/2025 9:02,Excel,Key,Ctrl+P,306,238,Open print dialog,print_file
+4/6/2025 9:02,Excel,Key,F2,302,139,Edit cell,edit_and_save
+4/6/2025 9:03,Excel,Key,Ctrl+S,340,266,Save file,edit_and_save
+4/6/2025 9:03,Excel,Key,Ctrl+C,100,123,Copy cell,copy_paste
+4/6/2025 9:03,Excel,Key,Ctrl+V,556,195,Paste cell,copy_paste
+4/6/2025 9:03,Excel,MouseClick,Right,196,172,Open context menu,context_menu
+4/6/2025 9:03,Excel,Key,Ctrl+Z,390,385,Undo last action,undo_redo
+4/6/2025 9:03,Excel,Key,Ctrl+Y,349,176,Redo last action,undo_redo
+4/6/2025 9:03,Excel,Key,Alt+N,165,371,Open Insertmenu,insert_chart
+4/6/2025 9:03,Excel,MouseClick,Left,155,196,"Click ""Chart""",insert_chart
+4/6/2025 9:04,Excel,Key,Ctrl+P,257,374,Open print dialog,print_file
+4/6/2025 9:04,Excel,Key,Ctrl+C,160,232,Copy cell,copy_paste
+4/6/2025 9:04,Excel,Key,Ctrl+V,339,370,Paste cell,copy_paste
+4/6/2025 9:04,Excel,Key,Ctrl+O,168,206,Open dialog,open_file
+4/6/2025 9:04,Excel,MouseClick,Left,577,386,File selected,open_file
+4/6/2025 9:04,Excel,Key,Alt+N,458,142,Open Insertmenu,insert_chart
+4/6/2025 9:04,Excel,MouseClick,Left,414,140,"Click ""Chart""",insert_chart
+4/6/2025 9:05,Excel,Key,Ctrl+S,245,278,Save file,close_file
+4/6/2025 9:05,Excel,Key,Alt+F4,320,210,Close app,close_file
+4/6/2025 9:05,Excel,Key,Delete,124,400,Delete selected cell,delete_data
+4/6/2025 9:05,Excel,Key,Ctrl+P,252,322,Open print dialog,print_file
+4/6/2025 9:05,Excel,Key,F2,275,140,Edit cell,edit_and_save
+4/6/2025 9:06,Excel,Key,Ctrl+S,260,294,Save file,edit_and_save
+4/6/2025 9:06,Excel,Key,Ctrl+Z,562,157,Undo last action,undo_redo
+4/6/2025 9:06,Excel,Key,Ctrl+Y,539,228,Redo last action,undo_redo
+4/6/2025 9:06,Excel,Key,Ctrl+O,319,358,Open dialog,open_file
+4/6/2025 9:06,Excel,MouseClick,Left,579,344,File selected,open_file
+4/6/2025 9:07,Excel,Key,Ctrl+S,501,198,Save file,close_file
+4/6/2025 9:07,Excel,Key,Alt+F4,181,326,Close app,close_file
+4/6/2025 9:07,Excel,Key,Ctrl+C,404,352,Copy cell,copy_paste
+4/6/2025 9:07,Excel,Key,Ctrl+V,169,230,Paste cell,copy_paste
+4/6/2025 9:07,Excel,Key,F2,510,388,Edit cell,edit_and_save
+4/6/2025 9:07,Excel,Key,Ctrl+S,577,263,Save file,edit_and_save
+4/6/2025 9:07,Excel,Key,Ctrl+P,122,220,Open print dialog,print_file
+4/6/2025 9:07,Excel,Key,Ctrl+P,589,171,Open print dialog,print_file
+4/6/2025 9:08,Excel,Key,Ctrl+C,581,132,Copy cell,copy_paste
+4/6/2025 9:08,Excel,Key,Ctrl+V,268,169,Paste cell,copy_paste
+4/6/2025 9:08,Excel,Key,Ctrl+S,566,271,Save file,close_file
+4/6/2025 9:08,Excel,Key,Alt+F4,323,336,Close app,close_file
+4/6/2025 9:08,Excel,Key,Delete,431,153,Delete selected cell,delete_data
+4/6/2025 9:08,Excel,Key,Ctrl+P,346,341,Open print dialog,print_file
+4/6/2025 9:08,Excel,Key,Delete,196,374,Delete selected cell,delete_data
+4/6/2025 9:08,Excel,MouseClick,Right,411,234,Open context menu,context_menu
+4/6/2025 9:09,Excel,Key,Ctrl+Z,329,115,Undo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Y,577,118,Redo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Z,224,246,Undo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Y,190,283,Redo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Z,425,142,Undo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Y,151,264,Redo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Z,579,201,Undo last action,undo_redo
+4/6/2025 9:09,Excel,Key,Ctrl+Y,240,279,Redo last action,undo_redo
+4/6/2025 9:10,Excel,Key,Ctrl+O,583,262,Open dialog,open_file
+4/6/2025 9:10,Excel,MouseClick,Left,218,110,File selected,open_file
+4/6/2025 9:10,Excel,Key,Ctrl+Z,579,180,Undo last action,undo_redo
+4/6/2025 9:10,Excel,Key,Ctrl+Y,406,185,Redo last action,undo_redo
+4/6/2025 9:10,Excel,Key,Ctrl+C,269,160,Copy cell,copy_paste
+4/6/2025 9:10,Excel,Key,Ctrl+V,460,128,Paste cell,copy_paste
+4/6/2025 9:10,Excel,Key,Ctrl+C,505,143,Copy cell,copy_paste
+4/6/2025 9:10,Excel,Key,Ctrl+V,301,332,Paste cell,copy_paste
+4/6/2025 9:10,Excel,Key,F2,460,194,Edit cell,edit_and_save
+4/6/2025 9:10,Excel,Key,Ctrl+S,101,199,Save file,edit_and_save
+4/6/2025 9:11,Excel,Key,Ctrl+P,229,344,Open print dialog,print_file
+4/6/2025 9:11,Excel,Key,F2,108,342,Edit cell,edit_and_save
+4/6/2025 9:11,Excel,Key,Ctrl+S,320,263,Save file,edit_and_save
+4/6/2025 9:11,Excel,Key,Ctrl+S,409,369,Save file,close_file
+4/6/2025 9:11,Excel,Key,Alt+F4,108,193,Close app,close_file
+4/6/2025 9:11,Excel,MouseClick,Right,123,156,Open context menu,context_menu
+4/6/2025 9:11,Excel,Key,F2,261,312,Edit cell,edit_and_save
+4/6/2025 9:11,Excel,Key,Ctrl+S,509,358,Save file,edit_and_save
+4/6/2025 9:11,Excel,Key,F2,176,383,Edit cell,edit_and_save
+4/6/2025 9:12,Excel,Key,Ctrl+S,471,172,Save file,edit_and_save
+4/6/2025 9:12,Excel,Key,Delete,364,102,Delete selected cell,delete_data
+4/6/2025 9:12,Excel,Key,Ctrl+Z,210,345,Undo last action,undo_redo
+4/6/2025 9:12,Excel,Key,Ctrl+Y,117,220,Redo last action,undo_redo
+4/6/2025 9:12,Excel,Key,Ctrl+S,438,280,Save file,close_file
+4/6/2025 9:12,Excel,Key,Alt+F4,318,259,Close app,close_file
+4/6/2025 9:12,Excel,Key,Ctrl+C,418,148,Copy cell,copy_paste
+4/6/2025 9:13,Excel,Key,Ctrl+V,138,321,Paste cell,copy_paste
+4/6/2025 9:13,Excel,Key,Delete,246,271,Delete selected cell,delete_data
+4/6/2025 9:13,Excel,Key,Ctrl+Z,493,136,Undo last action,undo_redo
+4/6/2025 9:13,Excel,Key,Ctrl+Y,149,277,Redo last action,undo_redo
+4/6/2025 9:13,Excel,Key,Ctrl+P,460,182,Open print dialog,print_file
+4/6/2025 9:13,Excel,Key,Ctrl+C,417,221,Copy cell,copy_paste
+4/6/2025 9:13,Excel,Key,Ctrl+V,556,199,Paste cell,copy_paste
+4/6/2025 9:14,Excel,MouseClick,Right,231,353,Open context menu,context_menu
+4/6/2025 9:14,Excel,Key,Alt+N,308,149,Open Insertmenu,insert_chart
+4/6/2025 9:14,Excel,MouseClick,Left,147,295,"Click ""Chart""",insert_chart
+4/6/2025 9:14,Excel,Key,Ctrl+O,271,342,Open dialog,open_file
+4/6/2025 9:14,Excel,MouseClick,Left,391,302,File selected,open_file
+4/6/2025 9:14,Excel,Key,F2,173,313,Edit cell,edit_and_save
+4/6/2025 9:14,Excel,Key,Ctrl+S,538,225,Save file,edit_and_save
+4/6/2025 9:14,Excel,Key,Ctrl+O,513,290,Open dialog,open_file
+4/6/2025 9:14,Excel,MouseClick,Left,516,173,File selected,open_file
+4/6/2025 9:15,Excel,Key,Delete,386,357,Delete selected cell,delete_data
+4/6/2025 9:15,Excel,Key,Ctrl+S,565,253,Save file,close_file
+4/6/2025 9:15,Excel,Key,Alt+F4,461,374,Close app,close_file
+4/6/2025 9:15,Excel,MouseClick,Right,485,327,Open context menu,context_menu
+4/6/2025 9:15,Excel,Key,Delete,501,264,Delete selected cell,delete_data
+4/6/2025 9:15,Excel,Key,Alt+N,169,382,Open Insertmenu,insert_chart
+4/6/2025 9:15,Excel,MouseClick,Left,398,373,"Click ""Chart""",insert_chart
+4/6/2025 9:15,Excel,Key,Ctrl+P,511,233,Open print dialog,print_file
+4/6/2025 9:16,Excel,MouseClick,Right,529,394,Open context menu,context_menu
+4/6/2025 9:16,Excel,Key,Ctrl+Z,240,373,Undo last action,undo_redo
+4/6/2025 9:16,Excel,Key,Ctrl+Y,432,334,Redo last action,undo_redo
+4/6/2025 9:16,Excel,Key,Ctrl+P,311,270,Open print dialog,print_file
+4/6/2025 9:16,Excel,Key,Ctrl+C,216,213,Copy cell,copy_paste
+4/6/2025 9:16,Excel,Key,Ctrl+V,336,196,Paste cell,copy_paste
+4/6/2025 9:16,Excel,Key,Ctrl+C,582,384,Copy cell,copy_paste
+4/6/2025 9:17,Excel,Key,Ctrl+V,391,276,Paste cell,copy_paste
+4/6/2025 9:17,Excel,Key,F2,258,279,Edit cell,edit_and_save
+4/6/2025 9:17,Excel,Key,Ctrl+S,381,104,Save file,edit_and_save
+4/6/2025 9:17,Excel,MouseClick,Right,270,314,Open context menu,context_menu
+4/6/2025 9:17,Excel,Key,Ctrl+P,411,381,Open print dialog,print_file
+4/6/2025 9:17,Excel,Key,Ctrl+S,473,160,Save file,close_file
+4/6/2025 9:17,Excel,Key,Alt+F4,121,186,Close app,close_file
+4/6/2025 9:18,Excel,Key,Ctrl+Z,273,326,Undo last action,undo_redo
+4/6/2025 9:18,Excel,Key,Ctrl+Y,133,103,Redo last action,undo_redo
+4/6/2025 9:18,Excel,Key,Ctrl+O,116,111,Open dialog,open_file
+4/6/2025 9:18,Excel,MouseClick,Left,528,321,File selected,open_file
+4/6/2025 9:18,Excel,Key,Ctrl+Z,414,287,Undo last action,undo_redo
+4/6/2025 9:18,Excel,Key,Ctrl+Y,330,278,Redo last action,undo_redo
+4/6/2025 9:18,Excel,Key,Ctrl+P,396,373,Open print dialog,print_file
+4/6/2025 9:19,Excel,Key,Ctrl+C,259,117,Copy cell,copy_paste
+4/6/2025 9:19,Excel,Key,Ctrl+V,188,161,Paste cell,copy_paste
+4/6/2025 9:19,Excel,MouseClick,Right,433,256,Open context menu,context_menu
+4/6/2025 9:19,Excel,Key,Alt+N,203,391,Open Insertmenu,insert_chart
+4/6/2025 9:19,Excel,MouseClick,Left,445,324,"Click ""Chart""",insert_chart
+4/6/2025 9:19,Excel,Key,Ctrl+O,469,380,Open dialog,open_file
+4/6/2025 9:19,Excel,MouseClick,Left,312,385,File selected,open_file
+4/6/2025 9:19,Excel,MouseClick,Right,443,141,Open context menu,context_menu
+4/6/2025 9:19,Excel,Key,F2,165,394,Edit cell,edit_and_save
+4/6/2025 9:20,Excel,Key,Ctrl+S,163,295,Save file,edit_and_save
+4/6/2025 9:20,Excel,Key,Ctrl+P,544,397,Open print dialog,print_file
+4/6/2025 9:20,Excel,Key,Alt+N,251,347,Open Insertmenu,insert_chart
+4/6/2025 9:20,Excel,MouseClick,Left,158,391,"Click ""Chart""",insert_chart
+4/6/2025 9:20,Excel,Key,Ctrl+S,245,272,Save file,close_file
+4/6/2025 9:20,Excel,Key,Alt+F4,213,279,Close app,close_file
+4/6/2025 9:20,Excel,Key,Ctrl+P,180,105,Open print dialog,print_file
+4/6/2025 9:20,Excel,Key,Ctrl+S,406,173,Save file,close_file
+4/6/2025 9:21,Excel,Key,Alt+F4,493,368,Close app,close_file
+4/6/2025 9:21,Excel,Key,Ctrl+P,597,364,Open print dialog,print_file
+4/6/2025 9:21,Excel,Key,Delete,380,200,Delete selected cell,delete_data
+4/6/2025 9:21,Excel,Key,Ctrl+S,497,151,Save file,close_file
+4/6/2025 9:21,Excel,Key,Alt+F4,338,220,Close app,close_file
+4/6/2025 9:21,Excel,Key,Ctrl+O,329,294,Open dialog,open_file
+4/6/2025 9:21,Excel,MouseClick,Left,320,107,File selected,open_file
+4/6/2025 9:21,Excel,MouseClick,Right,336,338,Open context menu,context_menu
+4/6/2025 9:22,Excel,Key,Ctrl+O,338,105,Open dialog,open_file
+4/6/2025 9:22,Excel,MouseClick,Left,219,259,File selected,open_file
+4/6/2025 9:22,Excel,Key,Delete,421,237,Delete selected cell,delete_data
+4/6/2025 9:22,Excel,Key,Ctrl+S,555,300,Save file,close_file
+4/6/2025 9:22,Excel,Key,Alt+F4,255,303,Close app,close_file
+4/6/2025 9:22,Excel,Key,Ctrl+Z,179,381,Undo last action,undo_redo
+4/6/2025 9:22,Excel,Key,Ctrl+Y,536,279,Redo last action,undo_redo
+4/6/2025 9:22,Excel,Key,Ctrl+C,373,303,Copy cell,copy_paste
+4/6/2025 9:22,Excel,Key,Ctrl+V,589,114,Paste cell,copy_paste
+4/6/2025 9:22,Excel,Key,F2,359,314,Edit cell,edit_and_save
+4/6/2025 9:23,Excel,Key,Ctrl+S,346,368,Save file,edit_and_save
+4/6/2025 9:23,Excel,Key,Alt+N,312,281,Open Insertmenu,insert_chart
+4/6/2025 9:23,Excel,MouseClick,Left,130,226,"Click ""Chart""",insert_chart
+4/6/2025 9:23,Excel,Key,Ctrl+Z,515,384,Undo last action,undo_redo
+4/6/2025 9:23,Excel,Key,Ctrl+Y,593,271,Redo last action,undo_redo
+4/6/2025 9:23,Excel,Key,Alt+N,574,346,Open Insertmenu,insert_chart
+4/6/2025 9:23,Excel,MouseClick,Left,543,371,"Click ""Chart""",insert_chart
+4/6/2025 9:23,Excel,MouseClick,Right,474,366,Open context menu,context_menu
+4/6/2025 9:23,Excel,Key,Ctrl+C,569,366,Copy cell,copy_paste
+4/6/2025 9:24,Excel,Key,Ctrl+V,404,154,Paste cell,copy_paste
+4/6/2025 9:24,Excel,Key,Delete,309,313,Delete selected cell,delete_data
+4/6/2025 9:24,Excel,Key,Ctrl+O,143,135,Open dialog,open_file
+4/6/2025 9:24,Excel,MouseClick,Left,408,321,File selected,open_file
+4/6/2025 9:24,Excel,Key,F2,502,360,Edit cell,edit_and_save
+4/6/2025 9:25,Excel,Key,Ctrl+S,462,110,Save file,edit_and_save
+4/6/2025 9:25,Excel,Key,Ctrl+C,183,295,Copy cell,copy_paste
+4/6/2025 9:25,Excel,Key,Ctrl+V,494,313,Paste cell,copy_paste
+4/6/2025 9:25,Excel,MouseClick,Right,504,334,Open context menu,context_menu
+4/6/2025 9:25,Excel,Key,Ctrl+C,511,170,Copy cell,copy_paste
+4/6/2025 9:25,Excel,Key,Ctrl+V,291,106,Paste cell,copy_paste
+4/6/2025 9:25,Excel,Key,Ctrl+S,571,400,Save file,close_file
+4/6/2025 9:25,Excel,Key,Alt+F4,511,333,Close app,close_file
+4/6/2025 9:26,Excel,MouseClick,Right,179,212,Open context menu,context_menu
+4/6/2025 9:26,Excel,Key,F2,138,387,Edit cell,edit_and_save
+4/6/2025 9:26,Excel,Key,Ctrl+S,550,115,Save file,edit_and_save
+4/6/2025 9:26,Excel,Key,Ctrl+Z,540,103,Undo last action,undo_redo
+4/6/2025 9:26,Excel,Key,Ctrl+Y,460,199,Redo last action,undo_redo
+4/6/2025 9:26,Excel,Key,Delete,328,375,Delete selected cell,delete_data
+4/6/2025 9:26,Excel,Key,Ctrl+P,329,196,Open print dialog,print_file
+4/6/2025 9:26,Excel,Key,Delete,394,258,Delete selected cell,delete_data
+4/6/2025 9:26,Excel,Key,Ctrl+O,331,199,Open dialog,open_file
+4/6/2025 9:27,Excel,MouseClick,Left,585,295,File selected,open_file
+4/6/2025 9:27,Excel,MouseClick,Right,323,313,Open context menu,context_menu
+4/6/2025 9:27,Excel,Key,F2,450,400,Edit cell,edit_and_save
+4/6/2025 9:27,Excel,Key,Ctrl+S,458,165,Save file,edit_and_save
+4/6/2025 9:27,Excel,Key,Ctrl+S,112,118,Save file,close_file
+4/6/2025 9:27,Excel,Key,Alt+F4,149,353,Close app,close_file
+4/6/2025 9:27,Excel,Key,Delete,202,277,Delete selected cell,delete_data
+4/6/2025 9:27,Excel,MouseClick,Right,325,158,Open context menu,context_menu
+4/6/2025 9:27,Excel,Key,Ctrl+Z,502,297,Undo last action,undo_redo
+4/6/2025 9:27,Excel,Key,Ctrl+Y,453,332,Redo last action,undo_redo
+4/6/2025 9:28,Excel,Key,Ctrl+P,107,346,Open print dialog,print_file
+4/6/2025 9:28,Excel,Key,Ctrl+Z,517,354,Undo last action,undo_redo
+4/6/2025 9:28,Excel,Key,Ctrl+Y,389,232,Redo last action,undo_redo
+4/6/2025 9:28,Excel,Key,Ctrl+Z,255,172,Undo last action,undo_redo
+4/6/2025 9:28,Excel,Key,Ctrl+Y,184,319,Redo last action,undo_redo
+4/6/2025 9:28,Excel,Key,Ctrl+P,271,380,Open print dialog,print_file
+4/6/2025 9:28,Excel,Key,Ctrl+C,279,275,Copy cell,copy_paste
+4/6/2025 9:28,Excel,Key,Ctrl+V,562,320,Paste cell,copy_paste
+4/6/2025 9:28,Excel,Key,Ctrl+O,570,109,Open dialog,open_file
+4/6/2025 9:28,Excel,MouseClick,Left,423,328,File selected,open_file
+4/6/2025 9:29,Excel,Key,Delete,501,152,Delete selected cell,delete_data
+4/6/2025 9:29,Excel,Key,Ctrl+S,460,341,Save file,close_file
+4/6/2025 9:29,Excel,Key,Alt+F4,296,377,Close app,close_file
+4/6/2025 9:29,Excel,Key,Ctrl+P,472,302,Open print dialog,print_file
+4/6/2025 9:29,Excel,Key,Ctrl+O,577,282,Open dialog,open_file
+4/6/2025 9:29,Excel,MouseClick,Left,418,238,File selected,open_file
+4/6/2025 9:29,Excel,Key,F2,277,317,Edit cell,edit_and_save
+4/6/2025 9:30,Excel,Key,Ctrl+S,187,244,Save file,edit_and_save
+4/6/2025 9:30,Excel,Key,Ctrl+P,479,330,Open print dialog,print_file
+4/6/2025 9:30,Excel,Key,Ctrl+Z,454,119,Undo last action,undo_redo
+4/6/2025 9:30,Excel,Key,Ctrl+Y,326,366,Redo last action,undo_redo
+4/6/2025 9:30,Excel,Key,Delete,288,374,Delete selected cell,delete_data
+4/6/2025 9:30,Excel,Key,Ctrl+Z,201,138,Undo last action,undo_redo
+4/6/2025 9:30,Excel,Key,Ctrl+Y,297,394,Redo last action,undo_redo
+4/6/2025 9:30,Excel,Key,Ctrl+C,170,281,Copy cell,copy_paste
+4/6/2025 9:31,Excel,Key,Ctrl+V,499,265,Paste cell,copy_paste
+4/6/2025 9:31,Excel,Key,F2,122,363,Edit cell,edit_and_save
+4/6/2025 9:31,Excel,Key,Ctrl+S,452,218,Save file,edit_and_save
+4/6/2025 9:31,Excel,Key,Ctrl+C,297,174,Copy cell,copy_paste
+4/6/2025 9:31,Excel,Key,Ctrl+V,524,316,Paste cell,copy_paste
+4/6/2025 9:31,Excel,Key,Ctrl+S,401,171,Save file,close_file
+4/6/2025 9:31,Excel,Key,Alt+F4,118,346,Close app,close_file
+4/6/2025 9:31,Excel,Key,Ctrl+P,500,177,Open print dialog,print_file
+4/6/2025 9:32,Excel,Key,Ctrl+O,281,254,Open dialog,open_file
+4/6/2025 9:32,Excel,MouseClick,Left,334,324,File selected,open_file
+4/6/2025 9:32,Excel,Key,F2,228,279,Edit cell,edit_and_save
+4/6/2025 9:32,Excel,Key,Ctrl+S,511,327,Save file,edit_and_save
+4/6/2025 9:32,Excel,Key,Ctrl+O,292,222,Open dialog,open_file
+4/6/2025 9:32,Excel,MouseClick,Left,463,206,File selected,open_file
+4/6/2025 9:33,Excel,Key,Ctrl+Z,414,366,Undo last action,undo_redo
+4/6/2025 9:33,Excel,Key,Ctrl+Y,105,216,Redo last action,undo_redo
+4/6/2025 9:33,Excel,Key,Alt+N,475,291,Open Insertmenu,insert_chart
+4/6/2025 9:33,Excel,MouseClick,Left,217,182,"Click ""Chart""",insert_chart
+4/6/2025 9:33,Excel,Key,Ctrl+S,483,279,Save file,close_file
+4/6/2025 9:33,Excel,Key,Alt+F4,232,355,Close app,close_file
+4/6/2025 9:34,Excel,Key,Ctrl+S,261,191,Save file,close_file
+4/6/2025 9:34,Excel,Key,Alt+F4,115,358,Close app,close_file
+4/6/2025 9:34,Excel,Key,Ctrl+P,411,194,Open print dialog,print_file
+4/6/2025 9:34,Excel,Key,Ctrl+S,497,349,Save file,close_file
+4/6/2025 9:34,Excel,Key,Alt+F4,174,382,Close app,close_file
+4/6/2025 9:34,Excel,Key,Ctrl+Z,556,213,Undo last action,undo_redo
+4/6/2025 9:34,Excel,Key,Ctrl+Y,382,195,Redo last action,undo_redo
+4/6/2025 9:35,Excel,Key,Delete,112,380,Delete selected cell,delete_data
+4/6/2025 9:35,Excel,Key,Ctrl+O,149,118,Open dialog,open_file
+4/6/2025 9:35,Excel,MouseClick,Left,424,308,File selected,open_file
+4/6/2025 9:35,Excel,Key,Delete,263,251,Delete selected cell,delete_data
+4/6/2025 9:35,Excel,MouseClick,Right,485,394,Open context menu,context_menu
+4/6/2025 9:35,Excel,Key,Ctrl+Z,457,388,Undo last action,undo_redo
+4/6/2025 9:35,Excel,Key,Ctrl+Y,586,118,Redo last action,undo_redo
+4/6/2025 9:35,Excel,Key,Ctrl+P,347,267,Open print dialog,print_file
+4/6/2025 9:35,Excel,Key,Ctrl+O,588,169,Open dialog,open_file
+4/6/2025 9:36,Excel,MouseClick,Left,102,389,File selected,open_file
+4/6/2025 9:36,Excel,Key,Ctrl+C,487,205,Copy cell,copy_paste
+4/6/2025 9:36,Excel,Key,Ctrl+V,379,182,Paste cell,copy_paste
+4/6/2025 9:36,Excel,Key,F2,598,332,Edit cell,edit_and_save
+4/6/2025 9:36,Excel,Key,Ctrl+S,256,373,Save file,edit_and_save
+4/6/2025 9:36,Excel,MouseClick,Right,453,279,Open context menu,context_menu
+4/6/2025 9:37,Excel,Key,Delete,210,188,Delete selected cell,delete_data
+4/6/2025 9:37,Excel,Key,Ctrl+O,215,381,Open dialog,open_file
+4/6/2025 9:37,Excel,MouseClick,Left,225,185,File selected,open_file
+4/6/2025 9:37,Excel,Key,Ctrl+C,382,257,Copy cell,copy_paste
+4/6/2025 9:37,Excel,Key,Ctrl+V,492,218,Paste cell,copy_paste
+4/6/2025 9:38,Excel,Key,Ctrl+C,564,364,Copy cell,copy_paste
+4/6/2025 9:38,Excel,Key,Ctrl+V,122,378,Paste cell,copy_paste
+4/6/2025 9:38,Excel,Key,Ctrl+S,232,358,Save file,close_file
+4/6/2025 9:38,Excel,Key,Alt+F4,417,215,Close app,close_file
+4/6/2025 9:38,Excel,Key,Ctrl+C,198,258,Copy cell,copy_paste
+4/6/2025 9:38,Excel,Key,Ctrl+V,410,122,Paste cell,copy_paste
+4/6/2025 9:38,Excel,Key,Ctrl+P,149,234,Open print dialog,print_file
+4/6/2025 9:38,Excel,Key,Alt+N,423,325,Open Insertmenu,insert_chart
+4/6/2025 9:38,Excel,MouseClick,Left,540,347,"Click ""Chart""",insert_chart
+4/6/2025 9:39,Excel,Key,Ctrl+C,570,322,Copy cell,copy_paste
+4/6/2025 9:39,Excel,Key,Ctrl+V,497,183,Paste cell,copy_paste
+4/6/2025 9:39,Excel,MouseClick,Right,142,164,Open context menu,context_menu
+4/6/2025 9:39,Excel,Key,Ctrl+P,362,162,Open print dialog,print_file
+4/6/2025 9:39,Excel,Key,Ctrl+P,541,238,Open print dialog,print_file
+4/6/2025 9:39,Excel,Key,Ctrl+P,263,114,Open print dialog,print_file
+4/6/2025 9:39,Excel,Key,Ctrl+S,114,249,Save file,close_file
+4/6/2025 9:39,Excel,Key,Alt+F4,562,244,Close app,close_file
+4/6/2025 9:39,Excel,Key,Alt+N,125,188,Open Insertmenu,insert_chart
+4/6/2025 9:39,Excel,MouseClick,Left,180,345,"Click ""Chart""",insert_chart
+4/6/2025 9:40,Excel,Key,Alt+N,401,386,Open Insertmenu,insert_chart
+4/6/2025 9:40,Excel,MouseClick,Left,445,248,"Click ""Chart""",insert_chart
+4/6/2025 9:40,Excel,Key,Delete,175,102,Delete selected cell,delete_data
+4/6/2025 9:40,Excel,Key,Ctrl+Z,571,124,Undo last action,undo_redo
+4/6/2025 9:40,Excel,Key,Ctrl+Y,143,233,Redo last action,undo_redo
+4/6/2025 9:40,Excel,Key,Ctrl+S,591,387,Save file,close_file
+4/6/2025 9:40,Excel,Key,Alt+F4,255,214,Close app,close_file
+4/6/2025 9:40,Excel,Key,Ctrl+O,237,117,Open dialog,open_file
+4/6/2025 9:41,Excel,MouseClick,Left,421,178,File selected,open_file
+4/6/2025 9:41,Excel,Key,Alt+N,364,135,Open Insertmenu,insert_chart
+4/6/2025 9:41,Excel,MouseClick,Left,193,345,"Click ""Chart""",insert_chart
+4/6/2025 9:41,Excel,Key,Ctrl+C,549,156,Copy cell,copy_paste
+4/6/2025 9:41,Excel,Key,Ctrl+V,327,347,Paste cell,copy_paste
+4/6/2025 9:42,Excel,MouseClick,Right,270,238,Open context menu,context_menu
+4/6/2025 9:42,Excel,Key,F2,233,242,Edit cell,edit_and_save
+4/6/2025 9:42,Excel,Key,Ctrl+S,251,264,Save file,edit_and_save
+4/6/2025 9:42,Excel,Key,Ctrl+O,423,268,Open dialog,open_file
+4/6/2025 9:42,Excel,MouseClick,Left,243,264,File selected,open_file
+4/6/2025 9:42,Excel,Key,Ctrl+C,253,395,Copy cell,copy_paste
+4/6/2025 9:42,Excel,Key,Ctrl+V,271,345,Paste cell,copy_paste
+4/6/2025 9:42,Excel,Key,Ctrl+S,431,189,Save file,close_file
+4/6/2025 9:43,Excel,Key,Alt+F4,437,239,Close app,close_file
+4/6/2025 9:43,Excel,Key,Ctrl+O,200,199,Open dialog,open_file
+4/6/2025 9:43,Excel,MouseClick,Left,546,362,File selected,open_file
+4/6/2025 9:43,Excel,Key,Alt+N,163,317,Open Insertmenu,insert_chart
+4/6/2025 9:43,Excel,MouseClick,Left,130,289,"Click ""Chart""",insert_chart
+4/6/2025 9:43,Excel,Key,F2,560,214,Edit cell,edit_and_save
+4/6/2025 9:43,Excel,Key,Ctrl+S,344,145,Save file,edit_and_save
+4/6/2025 9:43,Excel,Key,Ctrl+Z,172,186,Undo last action,undo_redo
+4/6/2025 9:43,Excel,Key,Ctrl+Y,423,317,Redo last action,undo_redo
+4/6/2025 9:43,Excel,Key,Ctrl+Z,233,104,Undo last action,undo_redo
+4/6/2025 9:43,Excel,Key,Ctrl+Y,291,358,Redo last action,undo_redo
+4/6/2025 9:44,Excel,Key,Ctrl+C,484,311,Copy cell,copy_paste
+4/6/2025 9:44,Excel,Key,Ctrl+V,474,297,Paste cell,copy_paste
+4/6/2025 9:44,Excel,Key,Ctrl+Z,477,356,Undo last action,undo_redo
+4/6/2025 9:44,Excel,Key,Ctrl+Y,552,246,Redo last action,undo_redo
+4/6/2025 9:44,Excel,MouseClick,Right,314,303,Open context menu,context_menu
+4/6/2025 9:44,Excel,Key,Ctrl+C,257,397,Copy cell,copy_paste
+4/6/2025 9:44,Excel,Key,Ctrl+V,230,244,Paste cell,copy_paste
+4/6/2025 9:45,Excel,Key,F2,310,331,Edit cell,edit_and_save
+4/6/2025 9:45,Excel,Key,Ctrl+S,148,116,Save file,edit_and_save
+4/6/2025 9:45,Excel,Key,Alt+N,335,330,Open Insertmenu,insert_chart
+4/6/2025 9:45,Excel,MouseClick,Left,134,126,"Click ""Chart""",insert_chart
+4/6/2025 9:45,Excel,Key,Ctrl+O,188,368,Open dialog,open_file
+4/6/2025 9:45,Excel,MouseClick,Left,448,131,File selected,open_file
+4/6/2025 9:45,Excel,MouseClick,Right,502,359,Open context menu,context_menu
+4/6/2025 9:45,Excel,Key,Delete,354,375,Delete selected cell,delete_data
+4/6/2025 9:45,Excel,Key,Ctrl+O,482,373,Open dialog,open_file
+4/6/2025 9:45,Excel,MouseClick,Left,335,367,File selected,open_file
+4/6/2025 9:46,Excel,Key,F2,107,328,Edit cell,edit_and_save
+4/6/2025 9:46,Excel,Key,Ctrl+S,552,331,Save file,edit_and_save
+4/6/2025 9:46,Excel,Key,Ctrl+Z,194,206,Undo last action,undo_redo
+4/6/2025 9:46,Excel,Key,Ctrl+Y,261,304,Redo last action,undo_redo
+4/6/2025 9:46,Excel,Key,Ctrl+O,449,128,Open dialog,open_file
+4/6/2025 9:46,Excel,MouseClick,Left,191,241,File selected,open_file
+4/6/2025 9:46,Excel,Key,Ctrl+O,247,281,Open dialog,open_file
+4/6/2025 9:47,Excel,MouseClick,Left,463,284,File selected,open_file
+4/6/2025 9:47,Excel,Key,F2,168,312,Edit cell,edit_and_save
+4/6/2025 9:47,Excel,Key,Ctrl+S,365,344,Save file,edit_and_save
+4/6/2025 9:47,Excel,Key,Ctrl+P,375,294,Open print dialog,print_file
+4/6/2025 9:47,Excel,Key,Ctrl+S,472,182,Save file,close_file
+4/6/2025 9:47,Excel,Key,Alt+F4,436,335,Close app,close_file
+4/6/2025 9:48,Excel,Key,Ctrl+P,564,201,Open print dialog,print_file
+4/6/2025 9:48,Excel,Key,Ctrl+Z,322,327,Undo last action,undo_redo
+4/6/2025 9:48,Excel,Key,Ctrl+Y,285,278,Redo last action,undo_redo
+4/6/2025 9:48,Excel,Key,Alt+N,325,219,Open Insertmenu,insert_chart
+4/6/2025 9:48,Excel,MouseClick,Left,405,384,"Click ""Chart""",insert_chart
+4/6/2025 9:48,Excel,Key,Ctrl+P,547,150,Open print dialog,print_file
+4/6/2025 9:48,Excel,Key,F2,307,303,Edit cell,edit_and_save
+4/6/2025 9:48,Excel,Key,Ctrl+S,485,111,Save file,edit_and_save
+4/6/2025 9:48,Excel,Key,Ctrl+O,544,103,Open dialog,open_file
+4/6/2025 9:48,Excel,MouseClick,Left,107,159,File selected,open_file
+4/6/2025 9:48,Excel,Key,Ctrl+C,549,399,Copy cell,copy_paste
+4/6/2025 9:49,Excel,Key,Ctrl+V,428,246,Paste cell,copy_paste
+4/6/2025 9:49,Excel,Key,Ctrl+Z,551,227,Undo last action,undo_redo
+4/6/2025 9:49,Excel,Key,Ctrl+Y,501,341,Redo last action,undo_redo
+4/6/2025 9:49,Excel,Key,Ctrl+P,268,304,Open print dialog,print_file
+4/6/2025 9:49,Excel,Key,Ctrl+Z,598,360,Undo last action,undo_redo
+4/6/2025 9:49,Excel,Key,Ctrl+Y,172,121,Redo last action,undo_redo
+4/6/2025 9:50,Excel,Key,Ctrl+P,320,374,Open print dialog,print_file
+4/6/2025 9:50,Excel,Key,Ctrl+P,448,300,Open print dialog,print_file
+4/6/2025 9:50,Excel,MouseClick,Right,467,195,Open context menu,context_menu
+4/6/2025 9:50,Excel,Key,Ctrl+Z,251,277,Undo last action,undo_redo
+4/6/2025 9:50,Excel,Key,Ctrl+Y,276,363,Redo last action,undo_redo
+4/6/2025 9:50,Excel,Key,F2,203,194,Edit cell,edit_and_save
+4/6/2025 9:51,Excel,Key,Ctrl+S,517,381,Save file,edit_and_save
+4/6/2025 9:51,Excel,Key,Ctrl+C,453,305,Copy cell,copy_paste
+4/6/2025 9:51,Excel,Key,Ctrl+V,313,169,Paste cell,copy_paste
+4/6/2025 9:51,Excel,Key,Ctrl+Z,448,208,Undo last action,undo_redo
+4/6/2025 9:51,Excel,Key,Ctrl+Y,229,339,Redo last action,undo_redo
+4/6/2025 9:51,Excel,Key,Ctrl+C,198,400,Copy cell,copy_paste
+4/6/2025 9:51,Excel,Key,Ctrl+V,479,347,Paste cell,copy_paste
+4/6/2025 9:51,Excel,Key,Alt+N,396,333,Open Insertmenu,insert_chart
+4/6/2025 9:52,Excel,MouseClick,Left,360,156,"Click ""Chart""",insert_chart
+4/6/2025 9:52,Excel,Key,F2,315,379,Edit cell,edit_and_save
+4/6/2025 9:52,Excel,Key,Ctrl+S,451,247,Save file,edit_and_save
+4/6/2025 9:52,Excel,Key,Ctrl+P,389,333,Open print dialog,print_file
+4/6/2025 9:52,Excel,Key,Ctrl+S,595,322,Save file,close_file
+4/6/2025 9:52,Excel,Key,Alt+F4,254,383,Close app,close_file
+4/6/2025 9:52,Excel,Key,Ctrl+C,377,156,Copy cell,copy_paste
+4/6/2025 9:52,Excel,Key,Ctrl+V,105,347,Paste cell,copy_paste
+4/6/2025 9:52,Excel,MouseClick,Right,367,187,Open context menu,context_menu
+4/6/2025 9:53,Excel,Key,Ctrl+S,514,277,Save file,close_file
+4/6/2025 9:53,Excel,Key,Alt+F4,194,204,Close app,close_file
+4/6/2025 9:53,Excel,MouseClick,Right,576,167,Open context menu,context_menu
+4/6/2025 9:53,Excel,Key,Delete,507,179,Delete selected cell,delete_data
+4/6/2025 9:53,Excel,Key,Alt+N,433,392,Open Insertmenu,insert_chart
+4/6/2025 9:53,Excel,MouseClick,Left,141,122,"Click ""Chart""",insert_chart
+4/6/2025 9:53,Excel,Key,Delete,249,286,Delete selected cell,delete_data
+4/6/2025 9:53,Excel,Key,Ctrl+O,249,136,Open dialog,open_file
+4/6/2025 9:54,Excel,MouseClick,Left,323,320,File selected,open_file
+4/6/2025 9:54,Excel,Key,Ctrl+Z,475,280,Undo last action,undo_redo
+4/6/2025 9:54,Excel,Key,Ctrl+Y,135,325,Redo last action,undo_redo
+4/6/2025 9:54,Excel,Key,Ctrl+C,422,279,Copy cell,copy_paste
+4/6/2025 9:54,Excel,Key,Ctrl+V,109,290,Paste cell,copy_paste
+4/6/2025 9:54,Excel,MouseClick,Right,512,394,Open context menu,context_menu
+4/6/2025 9:54,Excel,Key,Ctrl+C,454,264,Copy cell,copy_paste
+4/6/2025 9:54,Excel,Key,Ctrl+V,496,156,Paste cell,copy_paste
+4/6/2025 9:54,Excel,Key,Ctrl+Z,237,355,Undo last action,undo_redo
+4/6/2025 9:55,Excel,Key,Ctrl+Y,501,384,Redo last action,undo_redo
+4/6/2025 9:55,Excel,Key,Alt+N,460,181,Open Insertmenu,insert_chart
+4/6/2025 9:55,Excel,MouseClick,Left,550,114,"Click ""Chart""",insert_chart
+4/6/2025 9:55,Excel,Key,F2,543,152,Edit cell,edit_and_save
+4/6/2025 9:55,Excel,Key,Ctrl+S,188,274,Save file,edit_and_save
+4/6/2025 9:55,Excel,Key,Ctrl+S,474,210,Save file,close_file
+4/6/2025 9:55,Excel,Key,Alt+F4,375,254,Close app,close_file
+4/6/2025 9:56,Excel,Key,Alt+N,220,302,Open Insertmenu,insert_chart
+4/6/2025 9:56,Excel,MouseClick,Left,172,397,"Click ""Chart""",insert_chart
+4/6/2025 9:56,Excel,Key,Alt+N,351,106,Open Insertmenu,insert_chart
+4/6/2025 9:56,Excel,MouseClick,Left,536,120,"Click ""Chart""",insert_chart
+4/6/2025 9:56,Excel,Key,Ctrl+O,582,396,Open dialog,open_file
+4/6/2025 9:56,Excel,MouseClick,Left,207,375,File selected,open_file
+4/6/2025 9:56,Excel,Key,Ctrl+O,205,227,Open dialog,open_file
+4/6/2025 9:56,Excel,MouseClick,Left,187,324,File selected,open_file
+4/6/2025 9:56,Excel,MouseClick,Right,548,296,Open context menu,context_menu
+4/6/2025 9:56,Excel,Key,Ctrl+P,184,127,Open print dialog,print_file
+4/6/2025 9:57,Excel,MouseClick,Right,541,204,Open context menu,context_menu
+4/6/2025 9:57,Excel,Key,Ctrl+O,154,180,Open dialog,open_file
+4/6/2025 9:57,Excel,MouseClick,Left,304,337,File selected,open_file
+4/6/2025 9:57,Excel,Key,Ctrl+C,336,385,Copy cell,copy_paste
+4/6/2025 9:57,Excel,Key,Ctrl+V,332,149,Paste cell,copy_paste
+4/6/2025 9:57,Excel,Key,Alt+N,180,302,Open Insertmenu,insert_chart
+4/6/2025 9:58,Excel,MouseClick,Left,385,264,"Click ""Chart""",insert_chart
+4/6/2025 9:58,Excel,Key,Ctrl+C,222,154,Copy cell,copy_paste
+4/6/2025 9:58,Excel,Key,Ctrl+V,327,259,Paste cell,copy_paste
+4/6/2025 9:58,Excel,MouseClick,Right,534,161,Open context menu,context_menu
+4/6/2025 9:58,Excel,MouseClick,Right,171,124,Open context menu,context_menu
+4/6/2025 9:58,Excel,Key,Delete,295,341,Delete selected cell,delete_data
+4/6/2025 9:58,Excel,Key,Alt+N,335,115,Open Insertmenu,insert_chart
+4/6/2025 9:58,Excel,MouseClick,Left,530,186,"Click ""Chart""",insert_chart
+4/6/2025 9:59,Excel,MouseClick,Right,206,281,Open context menu,context_menu
+4/6/2025 9:59,Excel,MouseClick,Right,370,246,Open context menu,context_menu
+4/6/2025 9:59,Excel,Key,F2,573,176,Edit cell,edit_and_save
+4/6/2025 9:59,Excel,Key,Ctrl+S,224,357,Save file,edit_and_save
+4/6/2025 9:59,Excel,Key,Ctrl+S,597,297,Save file,close_file
+4/6/2025 9:59,Excel,Key,Alt+F4,304,129,Close app,close_file
+4/6/2025 10:00,Excel,MouseClick,Right,406,115,Open context menu,context_menu
+4/6/2025 10:00,Excel,Key,Ctrl+O,241,119,Open dialog,open_file
+4/6/2025 10:00,Excel,MouseClick,Left,445,330,File selected,open_file
+4/6/2025 10:00,Excel,MouseClick,Right,535,335,Open context menu,context_menu
+4/6/2025 10:00,Excel,Key,Ctrl+C,394,339,Copy cell,copy_paste
+4/6/2025 10:00,Excel,Key,Ctrl+V,247,301,Paste cell,copy_paste
+4/6/2025 10:01,Excel,Key,Ctrl+Z,188,250,Undo last action,undo_redo
+4/6/2025 10:01,Excel,Key,Ctrl+Y,139,298,Redo last action,undo_redo
+4/6/2025 10:01,Excel,Key,Ctrl+S,576,323,Save file,close_file
+4/6/2025 10:01,Excel,Key,Alt+F4,164,238,Close app,close_file
+4/6/2025 10:01,Excel,Key,Ctrl+P,113,266,Open print dialog,print_file
+4/6/2025 10:01,Excel,Key,Ctrl+O,420,356,Open dialog,open_file
+4/6/2025 10:01,Excel,MouseClick,Left,435,322,File selected,open_file
+4/6/2025 10:01,Excel,MouseClick,Right,282,348,Open context menu,context_menu
+4/6/2025 10:01,Excel,Key,Delete,247,115,Delete selected cell,delete_data
+4/6/2025 10:02,Excel,Key,Ctrl+Z,336,244,Undo last action,undo_redo
+4/6/2025 10:02,Excel,Key,Ctrl+Y,555,108,Redo last action,undo_redo
+4/6/2025 10:02,Excel,MouseClick,Right,165,264,Open context menu,context_menu
+4/6/2025 10:02,Excel,Key,Ctrl+S,121,187,Save file,close_file
+4/6/2025 10:02,Excel,Key,Alt+F4,550,120,Close app,close_file
+4/6/2025 10:02,Excel,Key,Ctrl+S,143,154,Save file,close_file
+4/6/2025 10:02,Excel,Key,Alt+F4,262,289,Close app,close_file
+4/6/2025 10:02,Excel,Key,Ctrl+Z,251,385,Undo last action,undo_redo
+4/6/2025 10:02,Excel,Key,Ctrl+Y,348,293,Redo last action,undo_redo
+4/6/2025 10:02,Excel,Key,Ctrl+O,389,167,Open dialog,open_file
+4/6/2025 10:03,Excel,MouseClick,Left,596,259,File selected,open_file
+4/6/2025 10:03,Excel,Key,Ctrl+Z,319,389,Undo last action,undo_redo
+4/6/2025 10:03,Excel,Key,Ctrl+Y,114,272,Redo last action,undo_redo
+4/6/2025 10:03,Excel,Key,Ctrl+C,539,167,Copy cell,copy_paste
+4/6/2025 10:03,Excel,Key,Ctrl+V,370,375,Paste cell,copy_paste
+4/6/2025 10:03,Excel,Key,Ctrl+C,470,103,Copy cell,copy_paste
+4/6/2025 10:03,Excel,Key,Ctrl+V,161,240,Paste cell,copy_paste
+4/6/2025 10:03,Excel,Key,Delete,249,313,Delete selected cell,delete_data
+4/6/2025 10:03,Excel,Key,Ctrl+C,438,282,Copy cell,copy_paste
+4/6/2025 10:04,Excel,Key,Ctrl+V,496,256,Paste cell,copy_paste
+4/6/2025 10:04,Excel,Key,Ctrl+O,419,229,Open dialog,open_file
+4/6/2025 10:04,Excel,MouseClick,Left,527,151,File selected,open_file
+4/6/2025 10:04,Excel,Key,Ctrl+C,515,156,Copy cell,copy_paste
+4/6/2025 10:04,Excel,Key,Ctrl+V,480,393,Paste cell,copy_paste
+4/6/2025 10:04,Excel,Key,Alt+N,224,168,Open Insertmenu,insert_chart
+4/6/2025 10:04,Excel,MouseClick,Left,520,110,"Click ""Chart""",insert_chart
+4/6/2025 10:04,Excel,MouseClick,Right,562,349,Open context menu,context_menu
+4/6/2025 10:04,Excel,Key,Ctrl+Z,418,340,Undo last action,undo_redo
+4/6/2025 10:04,Excel,Key,Ctrl+Y,525,116,Redo last action,undo_redo
+4/6/2025 10:05,Excel,Key,F2,348,156,Edit cell,edit_and_save
+4/6/2025 10:05,Excel,Key,Ctrl+S,549,243,Save file,edit_and_save
+4/6/2025 10:05,Excel,Key,Ctrl+P,579,334,Open print dialog,print_file
+4/6/2025 10:05,Excel,Key,Ctrl+O,105,355,Open dialog,open_file
+4/6/2025 10:05,Excel,MouseClick,Left,146,187,File selected,open_file
+4/6/2025 10:05,Excel,MouseClick,Right,386,193,Open context menu,context_menu
+4/6/2025 10:06,Excel,Key,F2,112,288,Edit cell,edit_and_save
+4/6/2025 10:06,Excel,Key,Ctrl+S,432,393,Save file,edit_and_save
+4/6/2025 10:06,Excel,Key,Alt+N,159,371,Open Insertmenu,insert_chart
+4/6/2025 10:06,Excel,MouseClick,Left,173,205,"Click ""Chart""",insert_chart
+4/6/2025 10:06,Excel,Key,Ctrl+O,342,236,Open dialog,open_file
+4/6/2025 10:06,Excel,MouseClick,Left,434,229,File selected,open_file
+4/6/2025 10:06,Excel,Key,Delete,510,304,Delete selected cell,delete_data
+4/6/2025 10:07,Excel,Key,Alt+N,317,167,Open Insertmenu,insert_chart
+4/6/2025 10:07,Excel,MouseClick,Left,189,387,"Click ""Chart""",insert_chart
+4/6/2025 10:07,Excel,Key,Ctrl+S,566,260,Save file,close_file
+4/6/2025 10:07,Excel,Key,Alt+F4,133,141,Close app,close_file
+4/6/2025 10:07,Excel,Key,F2,388,378,Edit cell,edit_and_save
+4/6/2025 10:07,Excel,Key,Ctrl+S,122,284,Save file,edit_and_save
+4/6/2025 10:07,Excel,Key,Ctrl+Z,173,110,Undo last action,undo_redo
+4/6/2025 10:08,Excel,Key,Ctrl+Y,502,388,Redo last action,undo_redo
+4/6/2025 10:08,Excel,MouseClick,Right,155,291,Open context menu,context_menu
+4/6/2025 10:08,Excel,Key,Ctrl+C,101,358,Copy cell,copy_paste
+4/6/2025 10:08,Excel,Key,Ctrl+V,151,347,Paste cell,copy_paste
+4/6/2025 10:08,Excel,MouseClick,Right,332,370,Open context menu,context_menu
+4/6/2025 10:09,Excel,Key,Ctrl+Z,482,193,Undo last action,undo_redo
+4/6/2025 10:09,Excel,Key,Ctrl+Y,422,333,Redo last action,undo_redo
+4/6/2025 10:09,Excel,Key,Ctrl+O,469,120,Open dialog,open_file
+4/6/2025 10:09,Excel,MouseClick,Left,399,377,File selected,open_file
+4/6/2025 10:09,Excel,Key,Ctrl+S,238,125,Save file,close_file
+4/6/2025 10:09,Excel,Key,Alt+F4,490,285,Close app,close_file
+4/6/2025 10:09,Excel,Key,Ctrl+Z,324,295,Undo last action,undo_redo
+4/6/2025 10:10,Excel,Key,Ctrl+Y,221,228,Redo last action,undo_redo
+4/6/2025 10:10,Excel,Key,Delete,585,127,Delete selected cell,delete_data
+4/6/2025 10:10,Excel,Key,Ctrl+C,516,190,Copy cell,copy_paste
+4/6/2025 10:10,Excel,Key,Ctrl+V,591,339,Paste cell,copy_paste
+4/6/2025 10:10,Excel,Key,Alt+N,365,309,Open Insertmenu,insert_chart
+4/6/2025 10:10,Excel,MouseClick,Left,131,391,"Click ""Chart""",insert_chart
+4/6/2025 10:10,Excel,Key,Ctrl+Z,257,122,Undo last action,undo_redo
+4/6/2025 10:10,Excel,Key,Ctrl+Y,540,347,Redo last action,undo_redo
+4/6/2025 10:11,Excel,Key,Ctrl+O,469,399,Open dialog,open_file
+4/6/2025 10:11,Excel,MouseClick,Left,284,183,File selected,open_file
+4/6/2025 10:11,Excel,Key,F2,592,263,Edit cell,edit_and_save
+4/6/2025 10:11,Excel,Key,Ctrl+S,342,216,Save file,edit_and_save
+4/6/2025 10:11,Excel,Key,Ctrl+C,248,309,Copy cell,copy_paste
+4/6/2025 10:11,Excel,Key,Ctrl+V,291,100,Paste cell,copy_paste
+4/6/2025 10:11,Excel,Key,Delete,509,116,Delete selected cell,delete_data
+4/6/2025 10:12,Excel,Key,F2,150,191,Edit cell,edit_and_save
+4/6/2025 10:12,Excel,Key,Ctrl+S,137,350,Save file,edit_and_save
+4/6/2025 10:12,Excel,Key,Ctrl+O,272,182,Open dialog,open_file
+4/6/2025 10:12,Excel,MouseClick,Left,294,355,File selected,open_file
+4/6/2025 10:12,Excel,Key,F2,493,336,Edit cell,edit_and_save
+4/6/2025 10:12,Excel,Key,Ctrl+S,233,224,Save file,edit_and_save
+4/6/2025 10:12,Excel,Key,F2,423,259,Edit cell,edit_and_save
+4/6/2025 10:12,Excel,Key,Ctrl+S,425,179,Save file,edit_and_save
+4/6/2025 10:12,Excel,Key,Ctrl+Z,311,153,Undo last action,undo_redo
+4/6/2025 10:12,Excel,Key,Ctrl+Y,466,122,Redo last action,undo_redo
+4/6/2025 10:13,Excel,MouseClick,Right,235,384,Open context menu,context_menu
+4/6/2025 10:13,Excel,Key,F2,146,130,Edit cell,edit_and_save
+4/6/2025 10:13,Excel,Key,Ctrl+S,126,175,Save file,edit_and_save
+4/6/2025 10:13,Excel,Key,F2,279,340,Edit cell,edit_and_save
+4/6/2025 10:13,Excel,Key,Ctrl+S,207,206,Save file,edit_and_save
+4/6/2025 10:13,Excel,Key,Ctrl+C,409,362,Copy cell,copy_paste
+4/6/2025 10:14,Excel,Key,Ctrl+V,109,364,Paste cell,copy_paste
+4/6/2025 10:14,Excel,Key,Alt+N,504,112,Open Insertmenu,insert_chart
+4/6/2025 10:14,Excel,MouseClick,Left,342,342,"Click ""Chart""",insert_chart
+4/6/2025 10:14,Excel,Key,Ctrl+P,386,251,Open print dialog,print_file
+4/6/2025 10:14,Excel,Key,Delete,276,366,Delete selected cell,delete_data
+4/6/2025 10:14,Excel,Key,Alt+N,243,381,Open Insertmenu,insert_chart
+4/6/2025 10:14,Excel,MouseClick,Left,483,160,"Click ""Chart""",insert_chart
+4/6/2025 10:14,Excel,Key,F2,578,119,Edit cell,edit_and_save
+4/6/2025 10:14,Excel,Key,Ctrl+S,125,256,Save file,edit_and_save
+4/6/2025 10:14,Excel,Key,Ctrl+C,285,398,Copy cell,copy_paste
+4/6/2025 10:15,Excel,Key,Ctrl+V,331,392,Paste cell,copy_paste
+4/6/2025 10:15,Excel,Key,Ctrl+O,106,295,Open dialog,open_file
+4/6/2025 10:15,Excel,MouseClick,Left,500,255,File selected,open_file
+4/6/2025 10:15,Excel,Key,Alt+N,517,155,Open Insertmenu,insert_chart
+4/6/2025 10:15,Excel,MouseClick,Left,278,391,"Click ""Chart""",insert_chart
+4/6/2025 10:15,Excel,Key,Ctrl+P,473,341,Open print dialog,print_file
+4/6/2025 10:15,Excel,Key,Ctrl+P,218,210,Open print dialog,print_file
+4/6/2025 10:16,Excel,Key,Ctrl+P,154,379,Open print dialog,print_file
+4/6/2025 10:16,Excel,Key,Ctrl+P,108,263,Open print dialog,print_file
+4/6/2025 10:16,Excel,Key,Alt+N,414,291,Open Insertmenu,insert_chart
+4/6/2025 10:16,Excel,MouseClick,Left,569,393,"Click ""Chart""",insert_chart
+4/6/2025 10:16,Excel,Key,Ctrl+S,452,360,Save file,close_file
+4/6/2025 10:16,Excel,Key,Alt+F4,328,318,Close app,close_file
+4/6/2025 10:16,Excel,Key,F2,506,395,Edit cell,edit_and_save
+4/6/2025 10:16,Excel,Key,Ctrl+S,498,290,Save file,edit_and_save
+4/6/2025 10:17,Excel,Key,Ctrl+Z,308,236,Undo last action,undo_redo
+4/6/2025 10:17,Excel,Key,Ctrl+Y,265,311,Redo last action,undo_redo
+4/6/2025 10:17,Excel,Key,Ctrl+C,452,106,Copy cell,copy_paste
+4/6/2025 10:17,Excel,Key,Ctrl+V,423,195,Paste cell,copy_paste
+4/6/2025 10:17,Excel,Key,Ctrl+Z,310,333,Undo last action,undo_redo
+4/6/2025 10:17,Excel,Key,Ctrl+Y,284,148,Redo last action,undo_redo
+4/6/2025 10:17,Excel,Key,Ctrl+O,101,270,Open dialog,open_file
+4/6/2025 10:18,Excel,MouseClick,Left,550,375,File selected,open_file
+4/6/2025 10:18,Excel,Key,Alt+N,498,214,Open Insertmenu,insert_chart
+4/6/2025 10:18,Excel,MouseClick,Left,373,170,"Click ""Chart""",insert_chart
+4/6/2025 10:18,Excel,Key,Ctrl+C,371,179,Copy cell,copy_paste
+4/6/2025 10:18,Excel,Key,Ctrl+V,245,277,Paste cell,copy_paste
+4/6/2025 10:18,Excel,Key,Ctrl+S,356,224,Save file,close_file
+4/6/2025 10:18,Excel,Key,Alt+F4,288,180,Close app,close_file
+4/6/2025 10:19,Excel,Key,Ctrl+C,578,201,Copy cell,copy_paste
+4/6/2025 10:19,Excel,Key,Ctrl+V,389,223,Paste cell,copy_paste
+4/6/2025 10:19,Excel,Key,F2,201,264,Edit cell,edit_and_save
+4/6/2025 10:19,Excel,Key,Ctrl+S,309,132,Save file,edit_and_save
+4/6/2025 10:19,Excel,Key,Ctrl+Z,500,174,Undo last action,undo_redo
+4/6/2025 10:19,Excel,Key,Ctrl+Y,532,380,Redo last action,undo_redo
+4/6/2025 10:19,Excel,Key,Ctrl+S,258,289,Save file,close_file
+4/6/2025 10:20,Excel,Key,Alt+F4,240,368,Close app,close_file
+4/6/2025 10:20,Excel,Key,Ctrl+O,206,261,Open dialog,open_file
+4/6/2025 10:20,Excel,MouseClick,Left,338,287,File selected,open_file
+4/6/2025 10:20,Excel,Key,Ctrl+S,399,357,Save file,close_file
+4/6/2025 10:20,Excel,Key,Alt+F4,222,187,Close app,close_file
+4/6/2025 10:20,Excel,Key,F2,488,334,Edit cell,edit_and_save
+4/6/2025 10:20,Excel,Key,Ctrl+S,329,324,Save file,edit_and_save
+4/6/2025 10:20,Excel,Key,Delete,499,115,Delete selected cell,delete_data
+4/6/2025 10:20,Excel,Key,Ctrl+P,415,128,Open print dialog,print_file
+4/6/2025 10:21,Excel,MouseClick,Right,329,217,Open context menu,context_menu
+4/6/2025 10:21,Excel,Key,Ctrl+C,412,118,Copy cell,copy_paste
+4/6/2025 10:21,Excel,Key,Ctrl+V,590,159,Paste cell,copy_paste
+4/6/2025 10:21,Excel,Key,Ctrl+C,520,177,Copy cell,copy_paste
+4/6/2025 10:21,Excel,Key,Ctrl+V,563,334,Paste cell,copy_paste
+4/6/2025 10:21,Excel,Key,Ctrl+O,145,338,Open dialog,open_file
+4/6/2025 10:21,Excel,MouseClick,Left,448,272,File selected,open_file
+4/6/2025 10:21,Excel,Key,Alt+N,229,387,Open Insertmenu,insert_chart
+4/6/2025 10:21,Excel,MouseClick,Left,284,400,"Click ""Chart""",insert_chart
+4/6/2025 10:22,Excel,Key,Delete,380,180,Delete selected cell,delete_data
+4/6/2025 10:22,Excel,Key,Alt+N,414,115,Open Insertmenu,insert_chart
+4/6/2025 10:22,Excel,MouseClick,Left,167,120,"Click ""Chart""",insert_chart
+4/6/2025 10:22,Excel,Key,Ctrl+S,447,145,Save file,close_file
+4/6/2025 10:22,Excel,Key,Alt+F4,147,206,Close app,close_file
+4/6/2025 10:22,Excel,Key,Ctrl+O,449,354,Open dialog,open_file
+4/6/2025 10:22,Excel,MouseClick,Left,368,300,File selected,open_file
+4/6/2025 10:22,Excel,Key,Ctrl+Z,169,243,Undo last action,undo_redo
+4/6/2025 10:23,Excel,Key,Ctrl+Y,139,141,Redo last action,undo_redo
+4/6/2025 10:23,Excel,Key,Ctrl+C,369,214,Copy cell,copy_paste
+4/6/2025 10:23,Excel,Key,Ctrl+V,346,400,Paste cell,copy_paste
+4/6/2025 10:23,Excel,Key,Delete,179,161,Delete selected cell,delete_data
+4/6/2025 10:23,Excel,Key,Ctrl+Z,522,278,Undo last action,undo_redo
+4/6/2025 10:23,Excel,Key,Ctrl+Y,235,169,Redo last action,undo_redo
+4/6/2025 10:24,Excel,Key,Ctrl+O,207,179,Open dialog,open_file
+4/6/2025 10:24,Excel,MouseClick,Left,188,128,File selected,open_file
+4/6/2025 10:24,Excel,MouseClick,Right,337,179,Open context menu,context_menu
+4/6/2025 10:24,Excel,Key,Ctrl+O,388,171,Open dialog,open_file
+4/6/2025 10:24,Excel,MouseClick,Left,418,174,File selected,open_file
+4/6/2025 10:24,Excel,Key,Ctrl+S,517,236,Save file,close_file
+4/6/2025 10:24,Excel,Key,Alt+F4,195,298,Close app,close_file
+4/6/2025 10:24,Excel,Key,Ctrl+C,454,240,Copy cell,copy_paste
+4/6/2025 10:25,Excel,Key,Ctrl+V,260,240,Paste cell,copy_paste
+4/6/2025 10:25,Excel,Key,F2,135,135,Edit cell,edit_and_save
+4/6/2025 10:25,Excel,Key,Ctrl+S,578,174,Save file,edit_and_save
+4/6/2025 10:25,Excel,Key,F2,353,216,Edit cell,edit_and_save
+4/6/2025 10:25,Excel,Key,Ctrl+S,142,302,Save file,edit_and_save
+4/6/2025 10:25,Excel,Key,Ctrl+S,428,115,Save file,close_file
+4/6/2025 10:25,Excel,Key,Alt+F4,363,155,Close app,close_file
+4/6/2025 10:26,Excel,Key,Ctrl+O,102,334,Open dialog,open_file
+4/6/2025 10:26,Excel,MouseClick,Left,535,284,File selected,open_file
+4/6/2025 10:26,Excel,Key,Ctrl+P,579,355,Open print dialog,print_file
+4/6/2025 10:26,Excel,MouseClick,Right,249,302,Open context menu,context_menu
+4/6/2025 10:26,Excel,Key,Ctrl+O,150,349,Open dialog,open_file
+4/6/2025 10:26,Excel,MouseClick,Left,345,209,File selected,open_file
+4/6/2025 10:26,Excel,Key,Ctrl+P,286,208,Open print dialog,print_file
+4/6/2025 10:26,Excel,MouseClick,Right,353,125,Open context menu,context_menu
+4/6/2025 10:27,Excel,Key,Ctrl+P,358,209,Open print dialog,print_file
+4/6/2025 10:27,Excel,Key,Ctrl+O,390,255,Open dialog,open_file
+4/6/2025 10:27,Excel,MouseClick,Left,429,272,File selected,open_file
+4/6/2025 10:27,Excel,Key,Ctrl+S,225,188,Save file,close_file
+4/6/2025 10:27,Excel,Key,Alt+F4,272,377,Close app,close_file
+4/6/2025 10:27,Excel,Key,Alt+N,597,383,Open Insertmenu,insert_chart
+4/6/2025 10:27,Excel,MouseClick,Left,557,269,"Click ""Chart""",insert_chart
+4/6/2025 10:27,Excel,Key,Alt+N,503,275,Open Insertmenu,insert_chart
+4/6/2025 10:27,Excel,MouseClick,Left,434,383,"Click ""Chart""",insert_chart
+4/6/2025 10:27,Excel,Key,Ctrl+P,541,208,Open print dialog,print_file
+4/6/2025 10:27,Excel,Key,F2,504,116,Edit cell,edit_and_save
+4/6/2025 10:28,Excel,Key,Ctrl+S,597,206,Save file,edit_and_save
+4/6/2025 10:28,Excel,Key,Alt+N,433,334,Open Insertmenu,insert_chart
+4/6/2025 10:28,Excel,MouseClick,Left,267,300,"Click ""Chart""",insert_chart
+4/6/2025 10:28,Excel,Key,Ctrl+C,369,298,Copy cell,copy_paste
+4/6/2025 10:28,Excel,Key,Ctrl+V,172,285,Paste cell,copy_paste
+4/6/2025 10:28,Excel,Key,Ctrl+S,441,167,Save file,close_file
+4/6/2025 10:28,Excel,Key,Alt+F4,508,158,Close app,close_file
+4/6/2025 10:28,Excel,Key,Alt+N,422,174,Open Insertmenu,insert_chart
+4/6/2025 10:29,Excel,MouseClick,Left,436,243,"Click ""Chart""",insert_chart
+4/6/2025 10:29,Excel,Key,Ctrl+Z,565,154,Undo last action,undo_redo
+4/6/2025 10:29,Excel,Key,Ctrl+Y,355,126,Redo last action,undo_redo
+4/6/2025 10:29,Excel,Key,Ctrl+O,554,270,Open dialog,open_file
+4/6/2025 10:29,Excel,MouseClick,Left,316,308,File selected,open_file
+4/6/2025 10:29,Excel,Key,Ctrl+P,234,127,Open print dialog,print_file
+4/6/2025 10:29,Excel,Key,Ctrl+C,570,207,Copy cell,copy_paste
+4/6/2025 10:30,Excel,Key,Ctrl+V,419,173,Paste cell,copy_paste
+4/6/2025 10:30,Excel,MouseClick,Right,497,376,Open context menu,context_menu
+4/6/2025 10:30,Excel,Key,F2,419,336,Edit cell,edit_and_save
+4/6/2025 10:30,Excel,Key,Ctrl+S,268,279,Save file,edit_and_save
+4/6/2025 10:30,Excel,Key,Ctrl+P,277,353,Open print dialog,print_file
+4/6/2025 10:30,Excel,Key,Ctrl+C,590,303,Copy cell,copy_paste
+4/6/2025 10:30,Excel,Key,Ctrl+V,358,302,Paste cell,copy_paste
+4/6/2025 10:30,Excel,Key,Ctrl+O,443,250,Open dialog,open_file
+4/6/2025 10:30,Excel,MouseClick,Left,152,289,File selected,open_file
+4/6/2025 10:31,Excel,Key,Ctrl+P,194,230,Open print dialog,print_file
+4/6/2025 10:31,Excel,Key,Ctrl+C,391,176,Copy cell,copy_paste
+4/6/2025 10:31,Excel,Key,Ctrl+V,405,144,Paste cell,copy_paste
+4/6/2025 10:31,Excel,Key,Ctrl+Z,485,115,Undo last action,undo_redo
+4/6/2025 10:31,Excel,Key,Ctrl+Y,479,189,Redo last action,undo_redo
+4/6/2025 10:31,Excel,Key,Ctrl+P,382,275,Open print dialog,print_file
+4/6/2025 10:32,Excel,Key,Ctrl+P,179,184,Open print dialog,print_file
+4/6/2025 10:32,Excel,MouseClick,Right,434,389,Open context menu,context_menu
+4/6/2025 10:32,Excel,Key,Delete,379,391,Delete selected cell,delete_data
+4/6/2025 10:32,Excel,MouseClick,Right,437,368,Open context menu,context_menu
+4/6/2025 10:32,Excel,Key,Ctrl+Z,378,291,Undo last action,undo_redo
+4/6/2025 10:32,Excel,Key,Ctrl+Y,197,388,Redo last action,undo_redo
+4/6/2025 10:33,Excel,Key,Ctrl+S,376,126,Save file,close_file
+4/6/2025 10:33,Excel,Key,Alt+F4,530,135,Close app,close_file
+4/6/2025 10:33,Excel,Key,Ctrl+O,128,394,Open dialog,open_file
+4/6/2025 10:33,Excel,MouseClick,Left,178,165,File selected,open_file
+4/6/2025 10:33,Excel,MouseClick,Right,559,224,Open context menu,context_menu
+4/6/2025 10:33,Excel,Key,F2,352,212,Edit cell,edit_and_save
+4/6/2025 10:33,Excel,Key,Ctrl+S,591,265,Save file,edit_and_save
+4/6/2025 10:34,Excel,Key,Ctrl+P,208,185,Open print dialog,print_file
+4/6/2025 10:34,Excel,Key,Alt+N,282,328,Open Insertmenu,insert_chart
+4/6/2025 10:34,Excel,MouseClick,Left,284,382,"Click ""Chart""",insert_chart
+4/6/2025 10:34,Excel,Key,Ctrl+C,127,183,Copy cell,copy_paste
+4/6/2025 10:34,Excel,Key,Ctrl+V,112,312,Paste cell,copy_paste
+4/6/2025 10:34,Excel,Key,Ctrl+Z,166,327,Undo last action,undo_redo
+4/6/2025 10:34,Excel,Key,Ctrl+Y,561,370,Redo last action,undo_redo
+4/6/2025 10:35,Excel,Key,F2,567,176,Edit cell,edit_and_save
+4/6/2025 10:35,Excel,Key,Ctrl+S,256,236,Save file,edit_and_save
+4/6/2025 10:35,Excel,Key,Ctrl+Z,570,137,Undo last action,undo_redo
+4/6/2025 10:35,Excel,Key,Ctrl+Y,538,202,Redo last action,undo_redo
+4/6/2025 10:36,Excel,Key,Ctrl+C,109,145,Copy cell,copy_paste
+4/6/2025 10:36,Excel,Key,Ctrl+V,336,124,Paste cell,copy_paste
+4/6/2025 10:36,Excel,Key,Ctrl+S,534,118,Save file,close_file
+4/6/2025 10:36,Excel,Key,Alt+F4,500,111,Close app,close_file
+4/6/2025 10:36,Excel,Key,Ctrl+P,188,380,Open print dialog,print_file
+4/6/2025 10:36,Excel,Key,Alt+N,112,297,Open Insertmenu,insert_chart
+4/6/2025 10:37,Excel,MouseClick,Left,243,159,"Click ""Chart""",insert_chart
+4/6/2025 10:37,Excel,Key,F2,505,390,Edit cell,edit_and_save
+4/6/2025 10:37,Excel,Key,Ctrl+S,544,224,Save file,edit_and_save
+4/6/2025 10:37,Excel,MouseClick,Right,101,398,Open context menu,context_menu
+4/6/2025 10:37,Excel,Key,Ctrl+C,217,361,Copy cell,copy_paste
+4/6/2025 10:37,Excel,Key,Ctrl+V,377,108,Paste cell,copy_paste
+4/6/2025 10:37,Excel,Key,Alt+N,127,254,Open Insertmenu,insert_chart
+4/6/2025 10:38,Excel,MouseClick,Left,384,340,"Click ""Chart""",insert_chart
+4/6/2025 10:38,Excel,Key,Ctrl+P,430,235,Open print dialog,print_file
+4/6/2025 10:38,Excel,Key,Ctrl+O,489,208,Open dialog,open_file
+4/6/2025 10:38,Excel,MouseClick,Left,583,369,File selected,open_file
+4/6/2025 10:38,Excel,Key,Ctrl+Z,281,134,Undo last action,undo_redo
+4/6/2025 10:38,Excel,Key,Ctrl+Y,361,313,Redo last action,undo_redo
+4/6/2025 10:38,Excel,Key,Delete,125,339,Delete selected cell,delete_data
+4/6/2025 10:38,Excel,Key,Ctrl+C,496,280,Copy cell,copy_paste
+4/6/2025 10:39,Excel,Key,Ctrl+V,215,316,Paste cell,copy_paste
+4/6/2025 10:39,Excel,Key,Ctrl+S,352,195,Save file,close_file
+4/6/2025 10:39,Excel,Key,Alt+F4,182,314,Close app,close_file
+4/6/2025 10:39,Excel,Key,Ctrl+S,197,107,Save file,close_file
+4/6/2025 10:39,Excel,Key,Alt+F4,578,200,Close app,close_file
+4/6/2025 10:39,Excel,Key,Delete,165,332,Delete selected cell,delete_data
+4/6/2025 10:40,Excel,Key,Alt+N,131,371,Open Insertmenu,insert_chart
+4/6/2025 10:40,Excel,MouseClick,Left,259,164,"Click ""Chart""",insert_chart
+4/6/2025 10:40,Excel,Key,Ctrl+O,183,117,Open dialog,open_file
+4/6/2025 10:40,Excel,MouseClick,Left,149,209,File selected,open_file
+4/6/2025 10:40,Excel,Key,Ctrl+C,465,300,Copy cell,copy_paste
+4/6/2025 10:40,Excel,Key,Ctrl+V,187,172,Paste cell,copy_paste
+4/6/2025 10:40,Excel,Key,Delete,177,289,Delete selected cell,delete_data
+4/6/2025 10:40,Excel,Key,Ctrl+P,184,248,Open print dialog,print_file
+4/6/2025 10:41,Excel,Key,Alt+N,227,115,Open Insertmenu,insert_chart
+4/6/2025 10:41,Excel,MouseClick,Left,415,266,"Click ""Chart""",insert_chart
+4/6/2025 10:41,Excel,Key,Ctrl+Z,358,307,Undo last action,undo_redo
+4/6/2025 10:41,Excel,Key,Ctrl+Y,272,142,Redo last action,undo_redo
+4/6/2025 10:41,Excel,Key,Ctrl+Z,367,181,Undo last action,undo_redo
+4/6/2025 10:41,Excel,Key,Ctrl+Y,307,280,Redo last action,undo_redo
+4/6/2025 10:41,Excel,Key,Ctrl+S,338,175,Save file,close_file
+4/6/2025 10:41,Excel,Key,Alt+F4,273,191,Close app,close_file
+4/6/2025 10:41,Excel,MouseClick,Right,571,169,Open context menu,context_menu
+4/6/2025 10:42,Excel,Key,Ctrl+S,591,169,Save file,close_file
+4/6/2025 10:42,Excel,Key,Alt+F4,548,385,Close app,close_file
+4/6/2025 10:42,Excel,Key,Ctrl+Z,309,397,Undo last action,undo_redo
+4/6/2025 10:42,Excel,Key,Ctrl+Y,558,325,Redo last action,undo_redo
+4/6/2025 10:42,Excel,Key,Ctrl+S,205,188,Save file,close_file
+4/6/2025 10:43,Excel,Key,Alt+F4,197,324,Close app,close_file
+4/6/2025 10:43,Excel,MouseClick,Right,473,334,Open context menu,context_menu
+4/6/2025 10:43,Excel,Key,Ctrl+Z,507,206,Undo last action,undo_redo
+4/6/2025 10:43,Excel,Key,Ctrl+Y,333,229,Redo last action,undo_redo
+4/6/2025 10:43,Excel,Key,Delete,469,140,Delete selected cell,delete_data
+4/6/2025 10:43,Excel,Key,Delete,529,272,Delete selected cell,delete_data
+4/6/2025 10:43,Excel,MouseClick,Right,276,341,Open context menu,context_menu
+4/6/2025 10:43,Excel,Key,F2,141,149,Edit cell,edit_and_save
+4/6/2025 10:44,Excel,Key,Ctrl+S,469,317,Save file,edit_and_save
+4/6/2025 10:44,Excel,Key,F2,324,270,Edit cell,edit_and_save
+4/6/2025 10:44,Excel,Key,Ctrl+S,336,354,Save file,edit_and_save
+4/6/2025 10:44,Excel,Key,F2,236,261,Edit cell,edit_and_save
+4/6/2025 10:44,Excel,Key,Ctrl+S,465,181,Save file,edit_and_save
+4/6/2025 10:44,Excel,Key,Ctrl+C,298,230,Copy cell,copy_paste
+4/6/2025 10:45,Excel,Key,Ctrl+V,369,147,Paste cell,copy_paste
+4/6/2025 10:45,Excel,MouseClick,Right,306,321,Open context menu,context_menu
+4/6/2025 10:45,Excel,Key,F2,535,248,Edit cell,edit_and_save
+4/6/2025 10:45,Excel,Key,Ctrl+S,327,247,Save file,edit_and_save
+4/6/2025 10:45,Excel,Key,Ctrl+C,386,256,Copy cell,copy_paste
+4/6/2025 10:45,Excel,Key,Ctrl+V,339,332,Paste cell,copy_paste
+4/6/2025 10:45,Excel,Key,Ctrl+P,286,207,Open print dialog,print_file
+4/6/2025 10:46,Excel,MouseClick,Right,523,318,Open context menu,context_menu
+4/6/2025 10:46,Excel,Key,Delete,257,380,Delete selected cell,delete_data
+4/6/2025 10:46,Excel,Key,Ctrl+P,592,299,Open print dialog,print_file
+4/6/2025 10:46,Excel,MouseClick,Right,314,227,Open context menu,context_menu
+4/6/2025 10:46,Excel,Key,Ctrl+C,446,121,Copy cell,copy_paste
+4/6/2025 10:46,Excel,Key,Ctrl+V,299,315,Paste cell,copy_paste
+4/6/2025 10:46,Excel,Key,Alt+N,259,248,Open Insertmenu,insert_chart
+4/6/2025 10:47,Excel,MouseClick,Left,151,263,"Click ""Chart""",insert_chart
+4/6/2025 10:47,Excel,Key,Ctrl+C,275,300,Copy cell,copy_paste
+4/6/2025 10:47,Excel,Key,Ctrl+V,217,238,Paste cell,copy_paste
+4/6/2025 10:47,Excel,Key,Alt+N,102,135,Open Insertmenu,insert_chart
+4/6/2025 10:47,Excel,MouseClick,Left,293,230,"Click ""Chart""",insert_chart
+4/6/2025 10:47,Excel,Key,Ctrl+O,524,319,Open dialog,open_file
+4/6/2025 10:47,Excel,MouseClick,Left,491,108,File selected,open_file
+4/6/2025 10:47,Excel,Key,Ctrl+P,184,332,Open print dialog,print_file
+4/6/2025 10:48,Excel,Key,Ctrl+Z,400,296,Undo last action,undo_redo
+4/6/2025 10:48,Excel,Key,Ctrl+Y,577,149,Redo last action,undo_redo
+4/6/2025 10:48,Excel,Key,Ctrl+C,326,282,Copy cell,copy_paste
+4/6/2025 10:48,Excel,Key,Ctrl+V,469,373,Paste cell,copy_paste
+4/6/2025 10:48,Excel,Key,Ctrl+P,589,363,Open print dialog,print_file
+4/6/2025 10:48,Excel,Key,Ctrl+O,376,117,Open dialog,open_file
+4/6/2025 10:49,Excel,MouseClick,Left,560,336,File selected,open_file
+4/6/2025 10:49,Excel,Key,Ctrl+O,366,380,Open dialog,open_file
+4/6/2025 10:49,Excel,MouseClick,Left,313,285,File selected,open_file
+4/6/2025 10:49,Excel,MouseClick,Right,261,271,Open context menu,context_menu
+4/6/2025 10:49,Excel,Key,Alt+N,168,394,Open Insertmenu,insert_chart
+4/6/2025 10:49,Excel,MouseClick,Left,173,184,"Click ""Chart""",insert_chart
+4/6/2025 10:49,Excel,MouseClick,Right,348,112,Open context menu,context_menu
+4/6/2025 10:49,Excel,Key,F2,400,230,Edit cell,edit_and_save
+4/6/2025 10:50,Excel,Key,Ctrl+S,483,324,Save file,edit_and_save
+4/6/2025 10:50,Excel,Key,Ctrl+S,587,321,Save file,close_file
+4/6/2025 10:50,Excel,Key,Alt+F4,533,145,Close app,close_file
+4/6/2025 10:50,Excel,Key,Delete,165,281,Delete selected cell,delete_data
+4/6/2025 10:50,Excel,Key,Ctrl+Z,342,256,Undo last action,undo_redo
+4/6/2025 10:50,Excel,Key,Ctrl+Y,355,167,Redo last action,undo_redo
+4/6/2025 10:50,Excel,Key,Delete,559,379,Delete selected cell,delete_data
+4/6/2025 10:50,Excel,Key,Ctrl+S,311,308,Save file,close_file
+4/6/2025 10:51,Excel,Key,Alt+F4,281,301,Close app,close_file
+4/6/2025 10:51,Excel,Key,Ctrl+S,572,254,Save file,close_file
+4/6/2025 10:51,Excel,Key,Alt+F4,501,265,Close app,close_file
+4/6/2025 10:51,Excel,Key,Ctrl+C,348,192,Copy cell,copy_paste
+4/6/2025 10:51,Excel,Key,Ctrl+V,351,164,Paste cell,copy_paste
+4/6/2025 10:51,Excel,Key,Ctrl+O,589,360,Open dialog,open_file
+4/6/2025 10:52,Excel,MouseClick,Left,435,192,File selected,open_file
+4/6/2025 10:52,Excel,Key,Ctrl+C,170,260,Copy cell,copy_paste
+4/6/2025 10:52,Excel,Key,Ctrl+V,402,356,Paste cell,copy_paste
+4/6/2025 10:52,Excel,Key,Ctrl+O,118,251,Open dialog,open_file
+4/6/2025 10:52,Excel,MouseClick,Left,154,134,File selected,open_file
+4/6/2025 10:53,Excel,Key,Ctrl+Z,158,240,Undo last action,undo_redo
+4/6/2025 10:53,Excel,Key,Ctrl+Y,236,382,Redo last action,undo_redo
+4/6/2025 10:53,Excel,Key,Alt+N,473,287,Open Insertmenu,insert_chart
+4/6/2025 10:53,Excel,MouseClick,Left,108,338,"Click ""Chart""",insert_chart
+4/6/2025 10:53,Excel,Key,Ctrl+S,477,253,Save file,close_file
+4/6/2025 10:53,Excel,Key,Alt+F4,574,272,Close app,close_file
+4/6/2025 10:53,Excel,Key,F2,295,199,Edit cell,edit_and_save
+4/6/2025 10:54,Excel,Key,Ctrl+S,508,367,Save file,edit_and_save
+4/6/2025 10:54,Excel,Key,Ctrl+C,182,134,Copy cell,copy_paste
+4/6/2025 10:54,Excel,Key,Ctrl+V,408,120,Paste cell,copy_paste
+4/6/2025 10:54,Excel,Key,Ctrl+S,454,235,Save file,close_file
+4/6/2025 10:54,Excel,Key,Alt+F4,281,308,Close app,close_file
+4/6/2025 10:54,Excel,Key,Ctrl+C,551,338,Copy cell,copy_paste
+4/6/2025 10:54,Excel,Key,Ctrl+V,280,398,Paste cell,copy_paste
+4/6/2025 10:54,Excel,Key,Ctrl+O,564,387,Open dialog,open_file
+4/6/2025 10:54,Excel,MouseClick,Left,514,281,File selected,open_file
+4/6/2025 10:54,Excel,Key,Ctrl+P,349,113,Open print dialog,print_file
+4/6/2025 10:55,Excel,Key,F2,507,389,Edit cell,edit_and_save
+4/6/2025 10:55,Excel,Key,Ctrl+S,410,364,Save file,edit_and_save
+4/6/2025 10:55,Excel,Key,Ctrl+S,472,270,Save file,close_file
+4/6/2025 10:55,Excel,Key,Alt+F4,492,151,Close app,close_file
+4/6/2025 10:55,Excel,Key,Ctrl+O,121,187,Open dialog,open_file
+4/6/2025 10:55,Excel,MouseClick,Left,353,327,File selected,open_file
+4/6/2025 10:55,Excel,Key,Ctrl+P,170,353,Open print dialog,print_file
+4/6/2025 10:55,Excel,Key,Ctrl+C,422,158,Copy cell,copy_paste
+4/6/2025 10:55,Excel,Key,Ctrl+V,386,125,Paste cell,copy_paste
+4/6/2025 10:55,Excel,Key,Ctrl+Z,461,234,Undo last action,undo_redo
+4/6/2025 10:56,Excel,Key,Ctrl+Y,513,262,Redo last action,undo_redo
+4/6/2025 10:56,Excel,MouseClick,Right,479,219,Open context menu,context_menu
+4/6/2025 10:56,Excel,MouseClick,Right,368,163,Open context menu,context_menu
+4/6/2025 10:56,Excel,Key,F2,390,255,Edit cell,edit_and_save
+4/6/2025 10:56,Excel,Key,Ctrl+S,260,309,Save file,edit_and_save
+4/6/2025 10:56,Excel,Key,Ctrl+C,103,243,Copy cell,copy_paste
+4/6/2025 10:56,Excel,Key,Ctrl+V,482,400,Paste cell,copy_paste
+4/6/2025 10:56,Excel,Key,Ctrl+S,115,265,Save file,close_file
+4/6/2025 10:56,Excel,Key,Alt+F4,581,368,Close app,close_file
+4/6/2025 10:57,Excel,Key,Delete,302,336,Delete selected cell,delete_data
+4/6/2025 10:57,Excel,Key,Ctrl+O,112,386,Open dialog,open_file
+4/6/2025 10:57,Excel,MouseClick,Left,497,173,File selected,open_file
+4/6/2025 10:57,Excel,Key,F2,333,380,Edit cell,edit_and_save
+4/6/2025 10:57,Excel,Key,Ctrl+S,270,159,Save file,edit_and_save
+4/6/2025 10:58,Excel,Key,Alt+N,528,350,Open Insertmenu,insert_chart
+4/6/2025 10:58,Excel,MouseClick,Left,318,154,"Click ""Chart""",insert_chart
+4/6/2025 10:58,Excel,Key,F2,319,364,Edit cell,edit_and_save
+4/6/2025 10:58,Excel,Key,Ctrl+S,351,168,Save file,edit_and_save
+4/6/2025 10:58,Excel,Key,Alt+N,213,205,Open Insertmenu,insert_chart
+4/6/2025 10:58,Excel,MouseClick,Left,418,209,"Click ""Chart""",insert_chart
+4/6/2025 10:58,Excel,Key,Ctrl+P,408,179,Open print dialog,print_file
+4/6/2025 10:58,Excel,Key,Delete,261,287,Delete selected cell,delete_data
+4/6/2025 10:59,Excel,Key,Ctrl+P,558,186,Open print dialog,print_file
+4/6/2025 10:59,Excel,Key,Alt+N,204,386,Open Insertmenu,insert_chart
+4/6/2025 10:59,Excel,MouseClick,Left,147,270,"Click ""Chart""",insert_chart
+4/6/2025 10:59,Excel,Key,Alt+N,569,359,Open Insertmenu,insert_chart
+4/6/2025 10:59,Excel,MouseClick,Left,136,115,"Click ""Chart""",insert_chart
+4/6/2025 10:59,Excel,Key,Ctrl+Z,241,339,Undo last action,undo_redo
+4/6/2025 10:59,Excel,Key,Ctrl+Y,250,371,Redo last action,undo_redo
+4/6/2025 11:00,Excel,Key,Ctrl+C,253,232,Copy cell,copy_paste
+4/6/2025 11:00,Excel,Key,Ctrl+V,336,341,Paste cell,copy_paste
+4/6/2025 11:00,Excel,Key,Delete,585,125,Delete selected cell,delete_data
+4/6/2025 11:00,Excel,Key,Ctrl+S,482,299,Save file,close_file
+4/6/2025 11:00,Excel,Key,Alt+F4,119,166,Close app,close_file
+4/6/2025 11:00,Excel,Key,Ctrl+Z,562,173,Undo last action,undo_redo
+4/6/2025 11:01,Excel,Key,Ctrl+Y,208,143,Redo last action,undo_redo
+4/6/2025 11:01,Excel,Key,Alt+N,259,204,Open Insertmenu,insert_chart
+4/6/2025 11:01,Excel,MouseClick,Left,548,157,"Click ""Chart""",insert_chart
+4/6/2025 11:01,Excel,Key,Ctrl+C,536,302,Copy cell,copy_paste
+4/6/2025 11:01,Excel,Key,Ctrl+V,316,366,Paste cell,copy_paste
+4/6/2025 11:01,Excel,Key,F2,409,345,Edit cell,edit_and_save
+4/6/2025 11:01,Excel,Key,Ctrl+S,271,339,Save file,edit_and_save
+4/6/2025 11:02,Excel,Key,Ctrl+C,525,345,Copy cell,copy_paste
+4/6/2025 11:02,Excel,Key,Ctrl+V,203,370,Paste cell,copy_paste
+4/6/2025 11:02,Excel,Key,Ctrl+S,385,307,Save file,close_file
+4/6/2025 11:02,Excel,Key,Alt+F4,236,103,Close app,close_file
+4/6/2025 11:02,Excel,Key,Ctrl+O,249,151,Open dialog,open_file
+4/6/2025 11:02,Excel,MouseClick,Left,179,331,File selected,open_file
+4/6/2025 11:02,Excel,Key,Ctrl+S,195,219,Save file,close_file
+4/6/2025 11:02,Excel,Key,Alt+F4,296,329,Close app,close_file
+4/6/2025 11:02,Excel,Key,Ctrl+P,449,160,Open print dialog,print_file
+4/6/2025 11:03,Excel,Key,Ctrl+O,332,341,Open dialog,open_file
+4/6/2025 11:03,Excel,MouseClick,Left,343,384,File selected,open_file
+4/6/2025 11:03,Excel,Key,Ctrl+C,375,336,Copy cell,copy_paste
+4/6/2025 11:03,Excel,Key,Ctrl+V,161,151,Paste cell,copy_paste
+4/6/2025 11:03,Excel,Key,Ctrl+C,167,373,Copy cell,copy_paste
+4/6/2025 11:04,Excel,Key,Ctrl+V,194,145,Paste cell,copy_paste
+4/6/2025 11:04,Excel,Key,Ctrl+C,260,158,Copy cell,copy_paste
+4/6/2025 11:04,Excel,Key,Ctrl+V,504,105,Paste cell,copy_paste
+4/6/2025 11:04,Excel,Key,Ctrl+P,109,379,Open print dialog,print_file
+4/6/2025 11:04,Excel,Key,F2,461,204,Edit cell,edit_and_save
+4/6/2025 11:04,Excel,Key,Ctrl+S,324,388,Save file,edit_and_save
+4/6/2025 11:04,Excel,Key,Delete,162,222,Delete selected cell,delete_data
+4/6/2025 11:04,Excel,Key,Ctrl+S,126,111,Save file,close_file
+4/6/2025 11:05,Excel,Key,Alt+F4,240,166,Close app,close_file
+4/6/2025 11:05,Excel,MouseClick,Right,463,258,Open context menu,context_menu
+4/6/2025 11:05,Excel,Key,Ctrl+Z,254,162,Undo last action,undo_redo
+4/6/2025 11:05,Excel,Key,Ctrl+Y,265,286,Redo last action,undo_redo
+4/6/2025 11:05,Excel,MouseClick,Right,389,272,Open context menu,context_menu
+4/6/2025 11:06,Excel,Key,Ctrl+O,296,347,Open dialog,open_file
+4/6/2025 11:06,Excel,MouseClick,Left,106,192,File selected,open_file
+4/6/2025 11:06,Excel,Key,Alt+N,270,372,Open Insertmenu,insert_chart
+4/6/2025 11:06,Excel,MouseClick,Left,417,322,"Click ""Chart""",insert_chart
+4/6/2025 11:06,Excel,Key,F2,301,202,Edit cell,edit_and_save
+4/6/2025 11:06,Excel,Key,Ctrl+S,304,359,Save file,edit_and_save
+4/6/2025 11:06,Excel,Key,Ctrl+Z,454,296,Undo last action,undo_redo
+4/6/2025 11:07,Excel,Key,Ctrl+Y,600,388,Redo last action,undo_redo
+4/6/2025 11:07,Excel,Key,Ctrl+P,434,338,Open print dialog,print_file
+4/6/2025 11:07,Excel,Key,Ctrl+O,248,310,Open dialog,open_file
+4/6/2025 11:07,Excel,MouseClick,Left,585,134,File selected,open_file
+4/6/2025 11:07,Excel,MouseClick,Right,206,397,Open context menu,context_menu
+4/6/2025 11:07,Excel,Key,Ctrl+C,180,384,Copy cell,copy_paste
+4/6/2025 11:08,Excel,Key,Ctrl+V,285,380,Paste cell,copy_paste
+4/6/2025 11:08,Excel,Key,Ctrl+O,341,223,Open dialog,open_file
+4/6/2025 11:08,Excel,MouseClick,Left,446,243,File selected,open_file
+4/6/2025 11:08,Excel,Key,Ctrl+Z,106,188,Undo last action,undo_redo
+4/6/2025 11:08,Excel,Key,Ctrl+Y,228,192,Redo last action,undo_redo
+4/6/2025 11:08,Excel,Key,Alt+N,548,353,Open Insertmenu,insert_chart
+4/6/2025 11:08,Excel,MouseClick,Left,573,264,"Click ""Chart""",insert_chart
+4/6/2025 11:08,Excel,Key,Ctrl+C,360,267,Copy cell,copy_paste
+4/6/2025 11:08,Excel,Key,Ctrl+V,440,114,Paste cell,copy_paste
+4/6/2025 11:09,Excel,Key,Ctrl+P,262,393,Open print dialog,print_file
+4/6/2025 11:09,Excel,Key,Ctrl+P,566,315,Open print dialog,print_file
+4/6/2025 11:09,Excel,Key,Ctrl+P,524,298,Open print dialog,print_file
+4/6/2025 11:09,Excel,Key,Ctrl+P,510,229,Open print dialog,print_file
+4/6/2025 11:09,Excel,Key,Ctrl+P,431,313,Open print dialog,print_file
+4/6/2025 11:09,Excel,Key,F2,341,328,Edit cell,edit_and_save
+4/6/2025 11:09,Excel,Key,Ctrl+S,153,218,Save file,edit_and_save
+4/6/2025 11:10,Excel,Key,Ctrl+O,472,297,Open dialog,open_file
+4/6/2025 11:10,Excel,MouseClick,Left,340,335,File selected,open_file
+4/6/2025 11:10,Excel,Key,Ctrl+O,436,280,Open dialog,open_file
+4/6/2025 11:10,Excel,MouseClick,Left,237,245,File selected,open_file
+4/6/2025 11:10,Excel,Key,Alt+N,514,291,Open Insertmenu,insert_chart
+4/6/2025 11:10,Excel,MouseClick,Left,207,340,"Click ""Chart""",insert_chart
+4/6/2025 11:10,Excel,Key,Alt+N,464,274,Open Insertmenu,insert_chart
+4/6/2025 11:10,Excel,MouseClick,Left,520,314,"Click ""Chart""",insert_chart
+4/6/2025 11:11,Excel,Key,F2,418,256,Edit cell,edit_and_save
+4/6/2025 11:11,Excel,Key,Ctrl+S,429,120,Save file,edit_and_save
+4/6/2025 11:11,Excel,Key,Delete,361,148,Delete selected cell,delete_data
+4/6/2025 11:11,Excel,Key,Ctrl+P,582,158,Open print dialog,print_file
+4/6/2025 11:11,Excel,Key,Ctrl+P,484,349,Open print dialog,print_file
+4/6/2025 11:11,Excel,Key,Ctrl+Z,189,299,Undo last action,undo_redo
+4/6/2025 11:11,Excel,Key,Ctrl+Y,333,106,Redo last action,undo_redo
+4/6/2025 11:12,Excel,Key,Delete,457,227,Delete selected cell,delete_data
+4/6/2025 11:12,Excel,Key,F2,459,202,Edit cell,edit_and_save
+4/6/2025 11:12,Excel,Key,Ctrl+S,446,259,Save file,edit_and_save
+4/6/2025 11:12,Excel,Key,Ctrl+Z,495,375,Undo last action,undo_redo
+4/6/2025 11:12,Excel,Key,Ctrl+Y,533,128,Redo last action,undo_redo
+4/6/2025 11:12,Excel,Key,Delete,491,239,Delete selected cell,delete_data
